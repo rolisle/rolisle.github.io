@@ -74,7 +74,7 @@ const CONFIG_DEFAULT = {
         'heal.total',
         'heal.over',
         'heal.swing',
-        'etc.raise'
+        'etc.buff_debuff_out-raise'
       ]
     }, {
       id: 3,
