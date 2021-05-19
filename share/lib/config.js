@@ -74,7 +74,7 @@ const CONFIG_DEFAULT = {
         'heal.total',
         'heal.over',
         'heal.swing',
-        'buff_debuff_out.raise'
+        'etc.raise'
       ]
     }, {
       id: 3,
@@ -131,7 +131,7 @@ const CONFIG_DEFAULT = {
     '_etc-powerdrain': 4,
     '_etc-powerheal': 4,
     '_etc-death': 2,
-    '_buff_debuff_out-raise': 2
+    '_etc-buff_debuff_out-raise': 2
   },
   color: {
     'gauge-default': '#444',

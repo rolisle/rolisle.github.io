@@ -284,11 +284,11 @@
       "_": "Etc",
       "powerdrain": ["PDrn", "Powerdrain"],
       "powerheal": ["PHeal", "Powerheal"],
-      "death": ["Dead", "Deathcount"]
-    },
-    "buff_debuff_out":{
-      "_": ["Buff_debuff_out"],
-      "raise": ["Raise", "Revives" ]
+      "death": ["Dead", "Deathcount"],
+      "buff_debuff_out":{
+        "_": ["Buff_debuff_out"],
+        "raise": ["Raise", "Revives" ]
+      }
     }
   },
   "zone": {
