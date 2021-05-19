@@ -131,7 +131,7 @@ const CONFIG_DEFAULT = {
     '_etc-powerdrain': 4,
     '_etc-powerheal': 4,
     '_etc-death': 2,
-    '_etc-raise': 2
+    '_etc-buff_debuff_out-raise': 2
   },
   color: {
     'gauge-default': '#444',
@@ -536,7 +536,9 @@ const COLUMN_INDEX = {
     powerdrain: 'powerdrain',
     powerheal: 'powerheal',
     death: 'deaths',
-    raise: 'revives'
+    buff_debuff_out: {
+      raise: 'revives'
+    }
   }
 }
 
