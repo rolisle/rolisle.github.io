@@ -285,9 +285,7 @@
       "powerdrain": ["PDrn", "Powerdrain"],
       "powerheal": ["PHeal", "Powerheal"],
       "death": ["Dead", "Deathcount"],
-      "buff_debuff_out":{
-        "_": ["Buff_debuff_out"],
-        "raise": ["Raise", "Revives" ]
+      "buff_debuff_out": ["B/D out", "Buff debuff out"]
       }
     }
   },
