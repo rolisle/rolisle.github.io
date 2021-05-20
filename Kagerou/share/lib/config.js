@@ -73,8 +73,7 @@ const CONFIG_DEFAULT = {
         'heal.per_second',
         'heal.total',
         'heal.over',
-        'heal.swing',
-        'etc.buff_debuff_out'
+        'heal.swing'
       ]
     }, {
       id: 3,
@@ -130,8 +129,7 @@ const CONFIG_DEFAULT = {
     '_heal-maxskill': 4,
     '_etc-powerdrain': 4,
     '_etc-powerheal': 4,
-    '_etc-death': 2,
-    '_etc-buff_debuff_out': 2
+    '_etc-death': 2
   },
   color: {
     'gauge-default': '#444',
@@ -535,8 +533,7 @@ const COLUMN_INDEX = {
   etc: {
     powerdrain: 'powerdrain',
     powerheal: 'powerheal',
-    death: 'deaths',
-    buff_debuff_out: 'buff debuff out'
+    death: 'deaths'
   }
 }
 

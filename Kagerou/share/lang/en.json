@@ -284,9 +284,7 @@
       "_": "Etc",
       "powerdrain": ["PDrn", "Powerdrain"],
       "powerheal": ["PHeal", "Powerheal"],
-      "death": ["Dead", "Deathcount"],
-      "buff_debuff_out": ["B/D out", "Buff debuff out"]
-      }
+      "death": ["Dead", "Deathcount"]
     }
   },
   "zone": {

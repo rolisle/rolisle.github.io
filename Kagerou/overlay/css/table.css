@@ -59,7 +59,6 @@
 .flex-column-etc-powerdrain     { width: var(--_etc-powerdrain)rem; }
 .flex-column-etc-death          { width: var(--_etc-death)rem; }
 .flex-column-etc-powerheal      { width: var(--_etc-powerheal)rem; }
-.flex-column-etc-buff_debuff_out{ width: var(--_etc-buff_debuff_out)rem; }
 
 .pet-merged .flex-column-i-owner {
   display: none !important;
